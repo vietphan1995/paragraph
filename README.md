@@ -21,4 +21,4 @@ Paragraph can reference difference text node version in distribution by text nod
 [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://six-zinc-ad4.notion.site/Paragraph-1b25e832d6ee80bfa42fc39e713b97e4
+https://phantrungviet.notion.site/Paragraph-1b25e832d6ee80bfa42fc39e713b97e4
