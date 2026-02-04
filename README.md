@@ -6,6 +6,8 @@
 
 [https://github.com/vietphan1995/paragraph.git](https://github.com/vietphan1995/paragraph.git)
 
+✉️ [Send to email: vietphan95@outlook.com](mailto:vietphan95@outlook.com?subject=register_idea:paragraph_project&body=left_your_idea)
+
 Paragraph is an application software that creates documents from many text nodes which supporting version control.
 
 Paragraph joins text nodes in many methods like:
@@ -17,6 +19,8 @@ Paragraph joins text nodes in many methods like:
 Paragraph can reference difference text node version in distribution by text node address, this means you can manage your text node in DRY ( do not repeat your self), in history.
 
 ![image.png](image.png)
+
+.
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
