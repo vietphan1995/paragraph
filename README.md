@@ -25,4 +25,4 @@ Paragraph can reference difference text node version in distribution by text nod
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/paragraph-1b25e832d6ee80bfa42fc39e713b97e4
+https://maianhcorporation.notion.site/paragraph-1b25e832d6ee80bfa42fc39e713b97e4
